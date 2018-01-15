@@ -38,9 +38,9 @@ srt：课程的中英文字幕（mp4文件需要在百度云下载）
 
 code：课程的python代码（有一部分是国外大牛写的）
 
-机器学习视频下载链接：http://pan.baidu.com/s/1dFCQvxZ 密码：dce8
+机器学习视频下载链接:https://yun.baidu.com/s/1kW9aCrd 密码:iqdi
 
-包含mp4视频和字幕
+包含中英文字幕视频，下载后解压
 
 [笔记在线阅读](http://www.ai-start.com/ml2014)
 
